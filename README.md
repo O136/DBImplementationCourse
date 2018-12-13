@@ -7,9 +7,10 @@ Both SQL schema and simple select statements parsers are generated via BISON/FLE
 The query compilation model is data-centric, as described in [Efficiently Compiling Efficient Query Plans for Modern Hardware](http://www.vldb.org/pvldb/vol4/p539-neumann.pdf)
 
 ## Required tools
-  *Bison
-  *Flex
-  *gcc
+  1.Bison
+  2.Flex
+  3.gcc
+
 
 ## How to start
 
