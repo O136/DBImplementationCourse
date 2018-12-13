@@ -8,7 +8,9 @@ The query compilation model is data-centric, as described in [Efficiently Compil
 
 ## Required tools
   1.Bison
+  
   2.Flex
+  
   3.gcc
 
 
